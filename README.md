@@ -1,4 +1,5 @@
-Module 2 Coding Assignment
+###Module 2 Coding Assignment
+
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 link: https://chhaviarora1401.github.io/coursera-course/index1.html
